@@ -29,4 +29,4 @@ The main features of this project are use of LoRa communication and using a sing
 - Thingsboard cloud server
 
 # Results and demonstration
-Demo video link: 
+Demo video (and ppt) link: https://rpi.app.box.com/folder/317046255833?s=932mhb8brdomopio452novqzz9ot1tnb
